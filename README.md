@@ -106,5 +106,7 @@ person = np.array([[2, 1, 35, 12.35, 0, 1, 0]])
 
 Prediction Output:
 This person is likely alive.
-          or
+
+          OR
+          
 This person is likely dead.
